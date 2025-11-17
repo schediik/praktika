@@ -17,3 +17,4 @@ if len(matrix) > 0:
     positiv_st
 else:
     print('Ничего не найдено')
+print('Hello')
